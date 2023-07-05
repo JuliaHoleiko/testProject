@@ -1,0 +1,26 @@
+.App {
+  /* text-align: center;
+  align-items: center; */
+  background: linear-gradient(to right, rgb(27,25,40), rgb(48,42,90));
+  height: 100vh;
+  color: white;
+ 
+}
+
+.button-general {
+  background-color:rgb(91,72,213);
+  border-radius: 10px;
+  padding: 7px 14px;
+  border: 0;
+  font-size: 18px;
+  color: white;
+  margin: 10px;
+  width: 20vw;
+  height: 5vh;
+}
+
+.button-general:hover {
+  background-color:rgb(162,125,160);
+}
+
+
