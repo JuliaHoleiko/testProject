@@ -1,0 +1,22 @@
+.container-header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 80vw;
+    align-items: center;
+    padding: 20px;
+
+}
+.button-rules{
+    background-color: transparent;
+    border: none;
+    color: aliceblue;
+    display: flex;
+    flex-direction: row;
+
+}
+.container-button{
+    display: flex;
+    flex-direction: row;
+
+}
